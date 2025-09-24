@@ -1,0 +1,5 @@
+transformers
+torch
+diffusers
+Pillow
+pyttsx3
